@@ -1,0 +1,2 @@
+<!--pages/logon/logon.wxml-->
+<button style=" background-color: green;" open-type='getUserInfo' bindgetuserinfo='doLogin'>微信登录</button>
